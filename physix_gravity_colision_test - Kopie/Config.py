@@ -1,0 +1,14 @@
+SCREENWIDTH = 750 #750 ist ganz gut
+SCREENHEIGHT = 750
+ENERGYLOSS_ON_COLISION = 0.5 #0 bis 1
+GRAVITY = 0
+RADIUS = 5
+NUMBEROFOBJS = 100
+DRAW_QUADTREE = True
+BENCHMARK = False
+G = 0.1 #0.00000001 #Gravitational Const.
+
+BLACK = (0, 0, 0)
+
+
+collisionCounter = 0
